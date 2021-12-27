@@ -1,6 +1,6 @@
 # SOBRE O REPOSITÓRIO
 
-Em desenvolvimento
+O Python é uma linguagem de programação criada em XXX e representada por uma grande e vibrante comunidade. 
 
 # MOTIVAÇÕES
 
